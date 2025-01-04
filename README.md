@@ -22,8 +22,8 @@ This repository contains the frontend of the project, structured using the **ato
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/frontend-repo.git
-   cd frontend-repo
+   git clone https://github.com/Parlay-it/Palay-it-Frontend.git
+   cd Palay-it-Frontend
 
 2. Install dependencies:
 
